@@ -23,3 +23,11 @@
 
 apie cia naudojama rasymo sintakse(md - markdown)
 https://guides.github.com/features/mastering-markdown/
+
+# Paint.net naudojimas
+
+Norint iskirpti
+1. Magic wand-> tolerance
+2. ctrl + i
+3. ctrl + shift + x
+4. ctrl + s
