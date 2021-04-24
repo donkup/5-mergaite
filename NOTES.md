@@ -11,7 +11,7 @@
 - [x] atlikti dizaino analize
 - [x] surasyti HTML
 - [ ] issikirpti nuotraukas
-   - panaudoti realityvu kelia
+   - panaudoti realityvu kelia ./
    - png formatas
 - [ ] aprasom stiliu
    - turinys turi buti centre
