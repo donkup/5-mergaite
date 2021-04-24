@@ -13,12 +13,16 @@
 - [ ] issikirpti nuotraukas
    - panaudoti realityvu kelia ./
    - png formatas
-- [ ] aprasom stiliu
+- [x] aprasom stiliu
    - turinys turi buti centre
    - pagrindinis plotis turi buti fiksuotas
    - stiliu(css) atskirti nuo HTML
 
-
+# HTML/CSS rasymo strategija
+1. israsyti kiek imanoma (isivaiduojama)HTML
+2. issirasyti CSS selektorius
+3. pradedant nuo labiausiai tevinio (is virsaus) selektoriaus surasome reikiamus stilius
+4. REPEAT- eiti i pirma zingsni
 #pasiskaitymui
 
 apie cia naudojama rasymo sintakse(md - markdown)
